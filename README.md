@@ -1,5 +1,3 @@
-# Follow-Your-Motion
-=======
 <div align="center">
 <h2><font color="red"> Follow-Your-Motion </font></center> <br> <center>Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning</h2>
 
